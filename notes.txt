@@ -1,0 +1,12 @@
+print statement is used to display the output
+variable is a container used to store data values
+when creating a variable; use underscore to separate 2 different words
+Data types= String, numbers, Booleans
+indexing of strings start at 0
+displaying a number output in a string we use str function
+int function is used to convert a string to an integer= whole numbers
+we can use the float fucntion to convert string to an integer without worrying about whole number
+tuples are immutable whereas list are muatble
+tuples is created using () whereas list os declared using []
+parameter is a piece of information that we give to a fucntion 
+A dictionary is a special structure in python that allows us to store information in what we call key value pairs
